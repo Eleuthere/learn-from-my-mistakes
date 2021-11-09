@@ -1,0 +1,24 @@
+Do not make gifts
+
+Let's say you have to automate some process in a bank, not knowing --- you are new in the bank --- that already two project managers broke their teeth 
+on the project, and ended up being seriously sick as a consequence.
+
+You have some experience in application design, and, in particular, you know that users of newly created applications tend not to anticipate their next
+demand or development proposal. The project is interesting, and quite complicated, but maybe, using your imagination, you may be able to picture what the work 
+of various people in the bank will be once the new application is in production. And so you can anticipate the next demand. So let's say, for our purpose, that
+some of the developments, that you think could be asked for by the management of the users of this application, would make your life easier, and that some of 
+the functionalities asked for the first release justifies some interesting design, but not quite.
+
+The development, in this case, will be made simpler, and it will make the application extensible and adaptable to (unforeseen) demands of the users.
+
+So the design is introduced in the development process, and it helps everyone, albeit the users don't realize the implications. The application goes into 
+production, and all is going well. Actually, the application goes into production two months before the anticipated date, and eight months before if you include 
+the usual six months accepted delay. The head of the user department asks for a major meeting. You, the project manager, are there, as well as your boss, and 
+the boss of your boss. L'heure est grave. The head of the user department asks for a major modification to your application, to get new and important 
+functionalities. And then, right there, big mistake.
+
+Because you made that exercise of trying to figure out the next demand of the user, he is actually asking for something that is already included in the 
+application, but only a couple of engineers know about it. In his head, this modification and awesome suggestion (from his part) might necessitate 
+three months development, ou maybe six or nine. He is actually asking how long it will take for your team to develop what he is asking. And your answer is : 
+one minute, maybe two, the time to get in front of some terminal and change some parameter. Big mistake. You just gave three, or maybe even nine months work by 
+your team for nothing. Even worse. Because no one realized, you appear as someone untrustworthy. Bad for your carreer. Very bad.

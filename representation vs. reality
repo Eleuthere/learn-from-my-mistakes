@@ -1,0 +1,25 @@
+A mistake that we sometimes do : take a representation of the reality as the reality.
+
+Which can sometimes have funny consequences.
+
+In a certain bank system, the civil status of a customer is used. Is the customer single, married, divorced, dead, alive, etc. The customer can die.
+In principle, customers can't come back to life. So our computer engineers team builds a function that enable a bank employee to "kill" a customer, that is
+that makes it possible to change the status of the customer from alive to dead. Of course, it is not necessary to make it possible to bring a customer back to
+life, because that never happens. Or so they think.
+
+And so this happens. In the "rue du Pont" live two men with the same name : "Jean Legrand". One of them dies. And this fact comes to the ears of the bank
+employee who works at the branch at the corner of the "rue du Pont". As a good employee, in order to protect the heirs of the deceased and the bank, 
+the employee mentions the death of Jean Legrand in the computer system of the bank. But the wrong ones got picked up. The employee mentions the death of the old 
+Jean Legrand, but it's the young one who died.
+
+So, Jean legrand, the dead one, keeps his accounts open and unprotected, while the still living Jean Legrand sees his accounts closed, cannot pay his rent, his 
+invoices, buy food, buy petrol, get a train or a metro ticket, etc. Of course, he goes to the branch of the bank to show that he is alive. The employees tell him
+that they will sort that out. But at the branch level, nothing is foreseen for that situation, so they send the problem to the head office. Where nothing for that
+is foreseen either. The computer engineers who made the developments can't do anything for obvious security reasons. They have no access to the data. And the 
+computer engineers who manage the production environment, they have access to the data, but not to the tools that would allow them to modify the data, for the 
+same obvious security reasons.
+
+Meanwhile, Jean Legrand, the dead one, has his body cold already for a long time, while Jean Legrand, alive but delared deceased, lives an impossible life. And 
+begins to think that enough is enough. He goes to the local television broadcasting corporation. And so, Jean Legrand, alive but declared deceased, will be 
+interviewed, during prime time, right in front of the bank's head office. All's well that ends well, and the next day the computer engineers of the bank had 
+finally made the corrections.
